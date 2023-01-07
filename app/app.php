@@ -68,4 +68,5 @@ function calculateTotal(array $transactions): array {
     } 
 
     return ['total' => $totals];
+//     
 }
